@@ -99,6 +99,3 @@ JLS §6.3 — Scope of Declarations: https://docs.oracle.com/javase/specs/jls/se
 
 JEP 286 — Local-Variable Type Inference: https://openjdk.org/jeps/286
 
-mathematica
-Copy
-Edit

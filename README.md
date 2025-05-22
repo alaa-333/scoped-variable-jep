@@ -2,10 +2,9 @@
 
 # Java Enhancement Proposal (JEP)
 
-**JEP:** XXXX  
+**JEP:**  
 **Title:** Scoped Mutable Variables  
 **Author:** Alaa Mohamed  
-**Reviewers:** [To be assigned]  
 **Status:** Draft  
 **Target Release:** Future Java Version (e.g., Java 22+)  
 **Type:** Feature Proposal  
